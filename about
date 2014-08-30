@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+
+    <title>About</title>
+    <meta name="description" content="" />
+
+    <meta name="HandheldFriendly" content="True" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="shortcut icon" href="favicon.ico">
+
+    <link rel="stylesheet" type="text/css" href="assets/css/screen.css?v=b948503015" />
+    <link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Noto+Serif:400,700,400italic|Open+Sans:700,400" />
+
+    <meta name="generator" content="Ghost 0.5" />
+<link rel="alternate" type="application/rss+xml" title="Sebastian Salek" href="rss/index.html">
+<link rel="canonical" href="http://my-ghost-blog.com/about/" />
+</head>
+<body class="post-template page">
+
+    
+
+<div class="nav">
+    <div id="class-container">
+        <div id="blog-title"><a href="index.html">Sebastian Salek</a></div>
+        <div id="nav-links">
+            <a class="nav-link" href="about">About</a>
+            <a class="nav-link" href="http://127.0.0.1:2368/tag/politics">Politics</a>
+            <a class="nav-link" href="tag/startups">Startups</a>
+            <a class="nav-link" href="tag/music">Music</a>
+            <a class="nav-link" href="http://127.0.0.1:2368/tag/lifestyle">Lifestyle</a>
+        </div>
+        <div style="clear: both"></div>
+    </div>
+</div>
+<header class="site-head" style="background-image: url(content/images/2014/May/5626922132_00bdf7e84a_o.jpg)">
+    <div class="vertical">
+        <div class="site-head-content inner">
+            
+            <!--<h1 class="blog-title">Sebastian Salek</h1>-->
+            <!--<h2 class="blog-description"></h2>-->
+        </div>
+    </div>
+</header>
+
+<main class="content" role="main">
+
+    <article class="post page">
+<!--
+        <header class="post-header">
+            <a class="blog-logo" href="http://my-ghost-blog.com">
+                    <span class="blog-title">Sebastian Salek</span>
+            </a>
+        </header>
+-->
+
+            <h1 class="post-title">About</h1>
+
+            <section class="post-content">
+                <!--  
+&prime; feet
+&Prime; inches
+&ldquo; double quote (open)
+&rdquo; double quote (close)
+&lsquo; single quote (open)
+&rsquo; single quote (close)
+&mdash; em dash
+&ndash; en dash
+-->
+
+<p>I&rsquo;m a television news journalist living in London. This blog is for making sure I don&rsquo;t forget how to write sentences. It&rsquo;s probably best to think of it as three individual microsites:</p>
+
+<h1 id="politicstagpolitics"><a href="http://127.0.0.1:2368/tag/politics">Politics</a></h1>
+
+<p>My thoughts on the issues being raised by the British media and beyond.</p>
+
+<h1 id="startupstagstartups"><a href="tag/startups">Startups</a></h1>
+
+<p>In my spare time, I love to try out business ideas. My main project at the moment is <a href="http://www.getshopaholic.com">Shopaholic</a>, a Google Chrome plugin which lets you follow your favourite clothes shops and turns your new tab page into a feed of sale items from them. Geared towards people like me who aren&rsquo;t working on their startups full time, I&rsquo;ll be sharing what I learn from my ventures, from marketing tips to handy code snippets.</p>
+
+<h1 id="musictagmusic"><a href="tag/music">Music</a></h1>
+
+<p>Classical music has been a passion for as long as I can remember. Since my first violin lessons at an early age, I&rsquo;ve never stopped discovering new artists and composers. (In fact, I spent my first year at Cambridge reading music before switching to law &mdash; long story.) On here, I&rsquo;ll share my latest obsessions as and when I discover them.</p>
+
+<h1 id="lifestyletaglifestyle"><a href="http://127.0.0.1:2368/tag/lifestyle">Lifestyle</a></h1>
+
+<p>Beside the occasional self-indulgent account of days out or trips abroad, expect to  alongside other cool things worth sharing.</p>
+
+<p><em>My old website can still be viewed <a href="http://old.sebastiansalek.com">here</a>.</em></p>
+            </section>
+
+
+    </article>
+
+</main>
+
+
+    <footer class="site-footer">
+        <!--
+        <a class="subscribe icon-feed" href="http://my-ghost-blog.com/rss/"><span class="tooltip">Subscribe!</span></a>
+        -->
+        <!--
+        <div class="inner">
+        -->
+             <!--
+             <section class="copyright">All content copyright <a href="http://my-ghost-blog.com/">Sebastian Salek</a> &copy; 2014 &bull; All rights reserved.</section>
+            -->
+            <section class="copyright">&copy; 2014 Sebastian Salek
+            </section>
+             <!--
+             <section class="poweredby">Proudly published with <a class="icon-ghost" href="https://ghost.org">Ghost</a></section>
+            -->
+        <!--
+        </div>
+        -->
+    </footer>
+
+    <script src="public/jquery.js?v=b948503015"></script>
+
+    <script type="text/javascript" src="assets/js/jquery.fitvids.js?v=b948503015"></script>
+    <script type="text/javascript" src="assets/js/index.js?v=b948503015"></script>
+
+</body>
+</html>
