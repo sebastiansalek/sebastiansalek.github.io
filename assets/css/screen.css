@@ -1157,6 +1157,11 @@ margin on the iframe, cause it breaks stuff. */
         font-size: 1.1rem;
     }
 
+    body
+    {
+    	overflow-y: none;
+    }
+
 }
 
 /* MY EDITS */
