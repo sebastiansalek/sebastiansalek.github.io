@@ -515,6 +515,7 @@ margin on the iframe, cause it breaks stuff. */
     /* EDIT */
     background-color: #fff;
     padding: 50px;
+    line-height: 20px;
 }
 
 /* Add a little circle in the middle of the border-bottom on our .post
