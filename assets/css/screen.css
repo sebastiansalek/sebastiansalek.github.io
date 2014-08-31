@@ -1157,7 +1157,7 @@ margin on the iframe, cause it breaks stuff. */
         font-size: 1.1rem;
     }
 
-    body {
+    body, html {
     	overflow-x: hidden;
     }
 
