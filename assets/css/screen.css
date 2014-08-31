@@ -1158,7 +1158,7 @@ margin on the iframe, cause it breaks stuff. */
     }
 
     body {
-    	background-color: red;
+    	overflow-x: hidden;
     }
 
 }
